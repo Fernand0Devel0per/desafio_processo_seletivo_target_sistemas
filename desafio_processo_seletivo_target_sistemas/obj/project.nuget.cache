@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GrDfjwrqag3R2pw8h9wDJGSix1GX90/rrIUT1iBakCQ+iX0ry+z0DY4J3qSEgqXxwKO56KkuHa/pEBtMVFOtOw==",
+  "dgSpecHash": "f5G+T/k8RXZfzY1LAXdWzBTskjSDhc7o3Y42wZJ6dar9vPwgw+Xry8rqf50wSydl/w5l4c1hz7rjxs7x9nxhTw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fhlot\\Desktop\\cell_phone_oo\\desafio_processo_seletivo_target_sistemas\\desafio_processo_seletivo_target_sistemas.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\fhlot\\Desktop\\desafio_processo_seletivo_target_sistema\\desafio_processo_seletivo_target_sistemas\\desafio_processo_seletivo_target_sistemas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fhlot\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
